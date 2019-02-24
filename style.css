@@ -1,0 +1,8 @@
+ #body{
+ 	background-image: linear-gradient(to top, yellow, green, indigo);
+
+ }
+#navbar-brand{
+	height: 50px;
+	width: 50px;
+}
